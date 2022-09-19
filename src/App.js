@@ -6,6 +6,7 @@ function App() {
     <>
     <Form>
       <input type={password}></input>
+      <input type={password}></input>
     </Form>
     </>
   );
