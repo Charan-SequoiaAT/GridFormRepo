@@ -105,6 +105,8 @@ function App() {
             <td> Column 9 content </td>
           </tr>
 
+          {/**This comment was added in new-features branchy */}
+
           <tr>
             <td> Column 1 content </td>
             <td> Column 2 content </td>
