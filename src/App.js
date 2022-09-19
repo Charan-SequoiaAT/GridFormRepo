@@ -105,6 +105,18 @@ function App() {
             <td> Column 9 content </td>
           </tr>
 
+          <tr>
+            <td> Column 1 content </td>
+            <td> Column 2 content </td>
+            <td> Column 3 content </td>
+            <td> Column 4 content </td>
+            <td> Column 5 content </td>
+            <td> Column 6 content </td>
+            <td> Column 7 content </td>
+            <td> Column 8 content </td>
+            <td> Column 9 content </td>
+          </tr>
+
         </tbody>
 
       </table>
