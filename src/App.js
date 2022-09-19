@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <FormComponent></FormComponent>
+      <FormComponent></FormComponent>
     </>
   );
 }
